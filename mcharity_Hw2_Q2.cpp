@@ -112,7 +112,6 @@ void Checktest(Checkbook& cb, float depositamount) {
     cb.displayChecks();
 }
 
-
 int main() {
     Checkbook cb;
     cb.setCheckAmount(200);
